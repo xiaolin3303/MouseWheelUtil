@@ -1,5 +1,5 @@
 /*!
- * Swallow-table v1.0
+ * Mouse wheel util v1.0
  *
  * Contact: https://github.com/xiaolin3303
  * 2016-07-20
