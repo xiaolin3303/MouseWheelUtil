@@ -33,8 +33,8 @@
 	<script type="text/javascript">
 		var count = 0;
 		new MouseWheelUtil($('.content'), {
-		  sensitivity: 3,
-		  timeLimit: 400,
+		  sensitivity: 5,
+		  timeLimit: 450,
 		  onWheel: function (direction) {
 		  	count++;
 		  	$('.tip').text('Scroll ' + (direction === 1 ? 'up' : 'down') + ', count: ' + count);
